@@ -1,5 +1,5 @@
 # Olá, Mundo!
-    Primeiro repositório com site em HTML e CSS do curso de Git e GitHub.
+    Primeiro repositório com site em HTML do curso de Git e GitHub.
 
     Repositório criado numa live!
 
